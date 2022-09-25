@@ -1,0 +1,6 @@
+Dialogflow
+Ngrok (Temporarily hosting local server)
+Pycharm(IDE of your choice)
+Flask
+Python
+Json
