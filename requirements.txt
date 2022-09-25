@@ -1,6 +1,7 @@
 Dialogflow
-Ngrok (Temporarily hosting local server)
+Ngrok (Exposing local servers to the internet)
 Pycharm(IDE of your choice)
 Flask
 Python
 Json
+API (for integration)
