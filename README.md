@@ -1,4 +1,4 @@
 # Telegram-Bot
 
-A currency converting and a working telegram bot
+A currency converting  telegram bot 
 (Can even be integrated into sites)
