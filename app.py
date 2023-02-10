@@ -24,7 +24,7 @@ def index():
 
 
 def fetch_conversion_factor(source, target, amount):
-    url = "https://api.apilayer.com/currency_data/convert?to={}&from={}&apikey=8QEdRC192hmY4Z1SajQ0wUBNJQOdhHdp&amount={}".format(target, source, amount)
+    url = "https://api.apilayer.com/currency_data/convert?to={}&from={}&apikey=<your-api-key-goes-here>&amount={}".format(target, source, amount)
     response = requests.get(url)
     response = response.json()
     return response['result']
